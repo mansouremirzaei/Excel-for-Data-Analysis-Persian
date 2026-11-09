@@ -19,22 +19,6 @@ The repository covers the following topics:
 - Statistical Analysis
 - Data Analysis with Excel Add-ins
 
-## Repository Structure
-
-```text
-Excel-for-Data-Analysis-Persian/
-│
-├── README.md
-│
-├── Session-01/
-│   ├── README.md
-│   ├── Notes/
-│   ├── Screenshots/
-│   └── Practice/
-│
-└── Resources/
-```
-
 ## Learning Approach
 
 Each topic is documented using the following structure:

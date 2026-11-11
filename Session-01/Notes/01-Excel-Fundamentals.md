@@ -1,4 +1,4 @@
-# بخش ۱ — مبانی اکسل (Excel Fundamentals)
+# مبانی اکسل (Excel Fundamentals)
 
 ## اهداف یادگیری (Learning Objectives)
 

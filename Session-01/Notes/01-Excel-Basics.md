@@ -127,9 +127,4 @@ Number Formatting معمولاً نحوه نمایش داده را تغییر م
 ### Exercise 4
 یک مقدار مالی را با استفاده از Accounting Format نمایش دهید.
 
----
 
-**Learning Series:** Excel for Data Analysis — Persian Learning Notes  
-**Session:** 01  
-**Topic:** Excel Basics  
-**Tools:** Microsoft Excel

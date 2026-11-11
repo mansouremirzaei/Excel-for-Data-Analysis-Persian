@@ -1,4 +1,4 @@
-# بخش ۳ — مصورسازی داده‌ها (Data Visualization)
+# مصورسازی داده‌ها (Data Visualization)
 
 ## اهداف یادگیری (Learning Objectives)
 

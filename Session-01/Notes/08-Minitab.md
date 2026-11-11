@@ -1,7 +1,7 @@
 # نرم‌افزار Minitab
-## Section 7 — Minitab
+## Minitab
 
-Minitab یک نرم‌افزار آماری است که برای اکتشاف داده‌ها (Data Exploration)، آزمون فرضیه (Hypothesis Testing)، تحلیل کیفیت (Quality Analysis) و مدل‌سازی (Modeling) استفاده می‌شود.
+تعریف؛ Minitab یک نرم‌افزار آماری است که برای اکتشاف داده‌ها (Data Exploration)، آزمون فرضیه (Hypothesis Testing)، تحلیل کیفیت (Quality Analysis) و مدل‌سازی (Modeling) استفاده می‌شود.
 
 این بخش، گردش کار تحلیل آماری در Minitab را معرفی می‌کند. نام منوها و دستورات ممکن است با توجه به نسخه نرم‌افزار متفاوت باشد.
 
